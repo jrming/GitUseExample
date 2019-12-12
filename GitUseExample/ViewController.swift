@@ -22,10 +22,3 @@ class ViewController: UIViewController {
 
 }
 
-
-
-
-
-
-
-
